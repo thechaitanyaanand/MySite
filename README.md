@@ -21,7 +21,6 @@ A B.tech student at IIIS, I love to learn new things and getting new experiences
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Random Facts About Me </h2>
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
   <li>will burn your house if left alone </li>
-  <li>Avid song enjoyer</li>
   <li>Above the concerns of this mortal realm</li>
 </ul>
 
