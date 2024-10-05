@@ -1,4 +1,4 @@
-![Thumbnail Practice 021](https://github.com/user-attachments/assets/a3630013-327e-457f-8d23-a10d748bd38f)<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Chaitanya Anand</h1>
+<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Chaitanya Anand</h1>
 
 
 ![Header Image](![Thumbnail Practice 020](![Thumbnail Practice 021](https://github.com/user-attachments/assets/7c3fd0d7-1752-4e85-97fc-4f7a0ff42c3e)
