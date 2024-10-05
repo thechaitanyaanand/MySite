@@ -15,7 +15,7 @@ A B.tech student at IIIS, I love to learn new things and getting new experiences
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50; line-height: 1.6;">
   <li><strong>Instagram</strong>: <a href="https://instagram.com/abhijit.wav" style="color: #2980b9;">@chaitanya.anand_</a></li>
   <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/chaitanyaanand-/" style="color: #2980b9;">@chaitanyaanand-</a></li>
-  <li><strong>GitHub</strong>: <a href="(https://github.com/thechaitanyaanand)" style="color: #2980b9;">@thechaitanyaanand</a></li>
+  <li><strong>GitHub</strong>: <a href="[https://github.com/thechaitanyaanand]" style="color: #2980b9;">@thechaitanyaanand</a></li>
 </ul>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Random Facts About Me </h2>
