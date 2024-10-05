@@ -12,9 +12,7 @@ A B.tech student at IIITS, I love learning new things and getting new experience
 </p>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Socials: </h2>
-![I go by me myself and I](https://github.com/user-attachments/assets/61e27464-e4f7-4191-948c-c8e18c7e0428)
 <img src="https://github.com/user-attachments/assets/61e27464-e4f7-4191-948c-c8e18c7e0428">
-
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50; line-height: 1.6;">
   <li><strong>Instagram</strong>: <a href="https://instagram.com/abhijit.wav" style="color: #2980b9;">@chaitanya.anand_</a></li>
   <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/chaitanyaanand-/" style="color: #2980b9;">@chaitanyaanand-</a></li>
