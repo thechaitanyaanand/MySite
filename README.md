@@ -7,7 +7,7 @@
 
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-A B.tech student at IIITS, I love to learn new things and getting new experiences.
+A B.tech student at IIITS, I love learning new things and getting new experiences.
 
 </p>
 
