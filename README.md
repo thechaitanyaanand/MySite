@@ -1,4 +1,4 @@
-<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Abhijit Patil</h1>
+<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Chaitanya Anand</h1>
 
 
 ![Header Image](![Thumbnail Practice 020](https://github.com/user-attachments/assets/74f45172-bbaa-484c-ab70-48e45d8a7814)
@@ -6,7 +6,7 @@
 
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-A B.tech student at IIIS, I love to learn new things and getting new experiences
+A B.tech student at IIIS, I love to learn new things and getting new experiences.
 
 </p>
 
@@ -19,8 +19,9 @@ A B.tech student at IIIS, I love to learn new things and getting new experiences
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Random Facts About Me </h2>
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-  <li>will burn your house if left alone</li>
-  <li>Songs </li>
+  <li>will burn your house if left alone </li>
+  <li>Avid song enjoyer</li>
+  <li>Above the concerns of this mortal realm</li>
 </ul>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Contact Me </h2>
